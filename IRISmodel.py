@@ -30,11 +30,6 @@ clf.fit(x_train, y_train)
 
 # print model accuracy
 print(clf.score(x_test, y_test))
-print(x_test)
-print("#"*20)
-print(clf.predict(x_test))
 
-
-
-# strlise model
+# dump model
 pickle.dump(clf, open('model.pkl', 'wb'))
