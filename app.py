@@ -4,8 +4,8 @@ import pickle
 
 app=Flask(__name__,template_folder='templates')
 
-model = pickle.load(open('C:\\Users\\Vishal Singh\\Documents\\work\\mypyhton\\Projects\\IRIS\\model.pkl', 'rb'))
-s = pickle.load(open('C:\\Users\\Vishal Singh\\Documents\\work\\mypyhton\\Projects\\IRIS\\standardscaler.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
+s = pickle.load(open('standardscaler.pkl', 'rb'))
 map_dict = {
     0:"Iris-setosa",
     1:'Iris-versicolor',
