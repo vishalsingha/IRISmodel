@@ -4,4 +4,4 @@ The model has been prepared by using [Logistic Regression](https://machinelearni
 
 Accuracy obtained = 0.9666666666666667
 
-Click [https://irismodel-lr.herokuapp.com/](https://irismodel-lr.herokuapp.com/) to check the model.
+Click [https://iris-data-lr.herokuapp.com/](https://iris-data-lr.herokuapp.com/) to check the model.
