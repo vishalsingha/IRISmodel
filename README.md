@@ -12,3 +12,5 @@ by using Sklearn library. And than after all deploying our model to the the web 
 
 ### Model Web Address
 Click [https://iris-data-lr.herokuapp.com/](https://iris-data-lr.herokuapp.com/) to check the model.
+
+<img src = 'https://github.com/vishalsingha/IRISmodel/blob/master/Web%20Interface.png?raw=true'>
